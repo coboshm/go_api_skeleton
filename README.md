@@ -1,2 +1,1 @@
-## Lernin API
-
+## Golang API Skeleton
